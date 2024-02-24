@@ -1,0 +1,6 @@
+C:/Users/rexyr/OneDrive/Escritorio/Carpetas Para Ejercicios y Actividades de CLion/Tarea 1 Ejercicios/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/rexyr/OneDrive/Escritorio/Carpetas Para Ejercicios y Actividades de CLion/Tarea 1 Ejercicios/cmake-build-debug/CMakeFiles/EstructurasCondicionales.dir
+C:/Users/rexyr/OneDrive/Escritorio/Carpetas Para Ejercicios y Actividades de CLion/Tarea 1 Ejercicios/cmake-build-debug/CMakeFiles/EstructurasIterativas.dir
+C:/Users/rexyr/OneDrive/Escritorio/Carpetas Para Ejercicios y Actividades de CLion/Tarea 1 Ejercicios/cmake-build-debug/CMakeFiles/EstructurasSeleccion.dir
+C:/Users/rexyr/OneDrive/Escritorio/Carpetas Para Ejercicios y Actividades de CLion/Tarea 1 Ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rexyr/OneDrive/Escritorio/Carpetas Para Ejercicios y Actividades de CLion/Tarea 1 Ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
